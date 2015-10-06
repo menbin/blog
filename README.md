@@ -2,7 +2,7 @@
 
 # Blog Address
 
-<http://blog.rainyalley.com/>
+<http://blog.menbin.com/>
 
 
 # Must Modify
