@@ -2,7 +2,7 @@
 
 # Blog Address
 
-<http://blog.menbin.com/>
+<http://menbin.github.io/>
 
 
 # Must Modify
